@@ -1,10 +1,10 @@
 # My First Docker Project
 
-Ye meri pehli Spring Boot API hai jo Docker se chalti hai.
+This is my first API which Runs by Docker.
 
-### Kaise chalayein?
-1. Terminal kholo.
-2. `docker-compose up --build` chalao.
+How to RUN?
+1. Open CMD
+2. `docker-compose up --build` Run This command
 
 ### API Link
 - http://localhost:8080/api
